@@ -33,6 +33,7 @@ This repository is to track leetcode
 | [0216-combination-sum-iii](https://github.com/sooryanshh/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0486-predict-the-winner](https://github.com/sooryanshh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/sooryanshh/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ This repository is to track leetcode
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sooryanshh/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/sooryanshh/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,4 +107,5 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
+| [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 <!---LeetCode Topics End-->
