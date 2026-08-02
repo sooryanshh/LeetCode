@@ -33,6 +33,7 @@ This repository is to track leetcode
 | [0216-combination-sum-iii](https://github.com/sooryanshh/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0486-predict-the-winner](https://github.com/sooryanshh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/sooryanshh/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -103,9 +104,19 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
