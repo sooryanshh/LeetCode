@@ -24,6 +24,7 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sooryanshh/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/sooryanshh/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ This repository is to track leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/sooryanshh/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0200-number-of-islands](https://github.com/sooryanshh/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sooryanshh/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/sooryanshh/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0486-predict-the-winner](https://github.com/sooryanshh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/sooryanshh/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sooryanshh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -137,4 +139,20 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/sooryanshh/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/sooryanshh/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/sooryanshh/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/sooryanshh/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/sooryanshh/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
