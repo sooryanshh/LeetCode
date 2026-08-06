@@ -18,6 +18,7 @@ This repository is to track leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/sooryanshh/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sooryanshh/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sliding Window
@@ -69,6 +70,7 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sooryanshh/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sooryanshh/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ This repository is to track leetcode
 | [0496-next-greater-element-i](https://github.com/sooryanshh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sooryanshh/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/sooryanshh/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,4 +158,8 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sooryanshh/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
