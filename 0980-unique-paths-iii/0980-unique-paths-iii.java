@@ -15,7 +15,10 @@ class Solution {
     }
     int countPath(int[][]grid, int r,int c,int count){
         if(r<0 || c<0 || r>=grid.length || c>=grid[0].length ||grid[r][c]==-1)return 0;
-         if(grid[r][c]==2&& count==1)return 1;
+         if(grid[r][c]==2){
+            if(count==1)return 1;
+            else return 0;
+         }
          int temp = grid[r][c];
         grid[r][c]=-1;
         int left = countPath(grid,r,c-1,count-1);
