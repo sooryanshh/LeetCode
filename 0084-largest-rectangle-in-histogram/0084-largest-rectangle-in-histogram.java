@@ -18,7 +18,7 @@ class Solution {
         return ans;
     }
     public void helper(int[] heights, int[] nse, int[] pse){
-        Stack<Integer> st = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
         // finding the next smaller index 
         for(int i =0; i<heights.length; i++){
             while(!st.isEmpty() && heights[i]<heights[st.peek()]){
