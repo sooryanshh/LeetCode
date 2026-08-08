@@ -45,6 +45,7 @@ This repository is to track leetcode
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/sooryanshh/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
@@ -58,11 +59,13 @@ This repository is to track leetcode
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sooryanshh/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/sooryanshh/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/sooryanshh/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +140,7 @@ This repository is to track leetcode
 | [0200-number-of-islands](https://github.com/sooryanshh/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -169,4 +173,8 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
