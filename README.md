@@ -18,6 +18,7 @@ This repository is to track leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/sooryanshh/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sooryanshh/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sooryanshh/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -61,6 +62,7 @@ This repository is to track leetcode
 | [0078-subsets](https://github.com/sooryanshh/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sooryanshh/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0494-target-sum](https://github.com/sooryanshh/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
@@ -141,6 +143,7 @@ This repository is to track leetcode
 | [0100-same-tree](https://github.com/sooryanshh/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/sooryanshh/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -215,12 +218,14 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0100-same-tree](https://github.com/sooryanshh/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/sooryanshh/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
