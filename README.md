@@ -119,6 +119,7 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sooryanshh/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/sooryanshh/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/sooryanshh/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sooryanshh/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -151,6 +152,7 @@ This repository is to track leetcode
 | [0100-same-tree](https://github.com/sooryanshh/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sooryanshh/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/sooryanshh/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -234,6 +236,7 @@ This repository is to track leetcode
 | [0100-same-tree](https://github.com/sooryanshh/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sooryanshh/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
@@ -244,6 +247,7 @@ This repository is to track leetcode
 | [0100-same-tree](https://github.com/sooryanshh/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sooryanshh/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
