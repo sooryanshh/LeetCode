@@ -149,6 +149,7 @@ This repository is to track leetcode
 | [0100-same-tree](https://github.com/sooryanshh/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/sooryanshh/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -168,6 +169,7 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0100-same-tree](https://github.com/sooryanshh/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/sooryanshh/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
 ## Union-Find
@@ -226,6 +228,7 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0100-same-tree](https://github.com/sooryanshh/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -234,6 +237,7 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0100-same-tree](https://github.com/sooryanshh/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
