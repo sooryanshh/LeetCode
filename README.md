@@ -52,6 +52,7 @@ This repository is to track leetcode
 | [0739-daily-temperatures](https://github.com/sooryanshh/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sooryanshh/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
@@ -126,6 +127,7 @@ This repository is to track leetcode
 | [0739-daily-temperatures](https://github.com/sooryanshh/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sooryanshh/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sooryanshh/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sooryanshh/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -215,6 +217,7 @@ This repository is to track leetcode
 | [0155-min-stack](https://github.com/sooryanshh/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/sooryanshh/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sooryanshh/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/sooryanshh/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
