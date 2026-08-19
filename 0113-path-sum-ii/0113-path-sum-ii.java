@@ -16,12 +16,9 @@ class Solution {
         temp.add(root.val);
              System.out.println(temp);
         helper(root.left,targetSum-root.val,list,temp);
-        
-        
-         System.out.println(temp);
         helper(root.right,targetSum-root.val,list,temp);
          temp.remove(temp.size()-1);
-         System.out.println(temp);
+        
         
     }
 }
