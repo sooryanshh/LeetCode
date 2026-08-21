@@ -13,7 +13,7 @@ class Solution {
         if(root==null)return;
         if(h==level){
             ans = root.val;
-            return;
+        
         }
         find(root.right,level,h+1);
         find(root.left,level,h+1);
