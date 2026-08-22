@@ -89,6 +89,7 @@ This repository is to track leetcode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sooryanshh/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sooryanshh/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sooryanshh/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/sooryanshh/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
