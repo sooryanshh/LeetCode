@@ -14,6 +14,7 @@ This repository is to track leetcode
 | [0496-next-greater-element-i](https://github.com/sooryanshh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ This repository is to track leetcode
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sooryanshh/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@ This repository is to track leetcode
 | [0142-linked-list-cycle-ii](https://github.com/sooryanshh/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/sooryanshh/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sooryanshh/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
