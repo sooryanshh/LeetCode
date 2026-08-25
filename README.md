@@ -185,6 +185,7 @@ This repository is to track leetcode
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +286,7 @@ This repository is to track leetcode
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +310,7 @@ This repository is to track leetcode
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,4 +333,5 @@ This repository is to track leetcode
 | [0450-delete-node-in-a-bst](https://github.com/sooryanshh/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
