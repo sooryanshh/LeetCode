@@ -55,6 +55,7 @@ This repository is to track leetcode
 | [0494-target-sum](https://github.com/sooryanshh/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sooryanshh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sooryanshh/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/sooryanshh/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -147,6 +148,7 @@ This repository is to track leetcode
 | [0232-implement-queue-using-stacks](https://github.com/sooryanshh/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sooryanshh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sooryanshh/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/sooryanshh/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sooryanshh/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -158,6 +160,7 @@ This repository is to track leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/sooryanshh/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sooryanshh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sooryanshh/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/sooryanshh/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -305,6 +308,7 @@ This repository is to track leetcode
 | [0513-find-bottom-left-tree-value](https://github.com/sooryanshh/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sooryanshh/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -336,6 +340,7 @@ This repository is to track leetcode
 | [0513-find-bottom-left-tree-value](https://github.com/sooryanshh/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sooryanshh/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -358,6 +363,7 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sooryanshh/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,4 +374,8 @@ This repository is to track leetcode
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
