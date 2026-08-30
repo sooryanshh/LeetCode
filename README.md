@@ -203,6 +203,7 @@ This repository is to track leetcode
 | [0437-path-sum-iii](https://github.com/sooryanshh/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/sooryanshh/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sooryanshh/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/sooryanshh/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -322,6 +323,7 @@ This repository is to track leetcode
 | [0450-delete-node-in-a-bst](https://github.com/sooryanshh/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/sooryanshh/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sooryanshh/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/sooryanshh/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -359,6 +361,7 @@ This repository is to track leetcode
 | [0450-delete-node-in-a-bst](https://github.com/sooryanshh/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/sooryanshh/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sooryanshh/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/sooryanshh/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -396,6 +399,7 @@ This repository is to track leetcode
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sooryanshh/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sooryanshh/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/sooryanshh/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
