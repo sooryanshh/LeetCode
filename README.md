@@ -16,6 +16,7 @@ This repository is to track leetcode
 | [0496-next-greater-element-i](https://github.com/sooryanshh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -74,6 +75,7 @@ This repository is to track leetcode
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sooryanshh/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sooryanshh/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -149,6 +151,7 @@ This repository is to track leetcode
 | [0347-top-k-frequent-elements](https://github.com/sooryanshh/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sooryanshh/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
