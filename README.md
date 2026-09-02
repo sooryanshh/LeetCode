@@ -41,6 +41,7 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sooryanshh/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sooryanshh/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Array
@@ -65,6 +66,7 @@ This repository is to track leetcode
 | [0496-next-greater-element-i](https://github.com/sooryanshh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sooryanshh/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -120,6 +122,7 @@ This repository is to track leetcode
 | [0141-linked-list-cycle](https://github.com/sooryanshh/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sooryanshh/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sooryanshh/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sooryanshh/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sooryanshh/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -150,6 +153,7 @@ This repository is to track leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/sooryanshh/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sooryanshh/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sooryanshh/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -279,6 +283,7 @@ This repository is to track leetcode
 | [0239-sliding-window-maximum](https://github.com/sooryanshh/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sooryanshh/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sooryanshh/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1046-last-stone-weight](https://github.com/sooryanshh/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sooryanshh/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -315,6 +320,7 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sooryanshh/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
