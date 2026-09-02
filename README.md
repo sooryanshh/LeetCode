@@ -20,6 +20,7 @@ This repository is to track leetcode
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/sooryanshh/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ This repository is to track leetcode
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/sooryanshh/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ This repository is to track leetcode
 | [0451-sort-characters-by-frequency](https://github.com/sooryanshh/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3843-first-element-with-unique-frequency](https://github.com/sooryanshh/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
