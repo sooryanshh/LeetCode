@@ -87,6 +87,7 @@ This repository is to track leetcode
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/sooryanshh/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sooryanshh/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@ This repository is to track leetcode
 | [0973-k-closest-points-to-origin](https://github.com/sooryanshh/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sooryanshh/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/sooryanshh/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
