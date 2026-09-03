@@ -13,6 +13,7 @@ This repository is to track leetcode
 | [0347-top-k-frequent-elements](https://github.com/sooryanshh/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/sooryanshh/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sooryanshh/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/sooryanshh/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sooryanshh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -63,6 +64,7 @@ This repository is to track leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/sooryanshh/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sooryanshh/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/sooryanshh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/sooryanshh/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/sooryanshh/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sooryanshh/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sooryanshh/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -97,6 +99,7 @@ This repository is to track leetcode
 | [0113-path-sum-ii](https://github.com/sooryanshh/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sooryanshh/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/sooryanshh/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0494-target-sum](https://github.com/sooryanshh/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
@@ -104,6 +107,7 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/sooryanshh/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/sooryanshh/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
