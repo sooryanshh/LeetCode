@@ -18,6 +18,7 @@ This repository is to track leetcode
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -36,6 +37,7 @@ This repository is to track leetcode
 | [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sooryanshh/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sooryanshh/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sooryanshh/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sliding Window
@@ -83,6 +85,7 @@ This repository is to track leetcode
 | [1381-design-a-stack-with-increment-operation](https://github.com/sooryanshh/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sooryanshh/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -178,6 +181,7 @@ This repository is to track leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/sooryanshh/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sooryanshh/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/sooryanshh/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 ## Stack
