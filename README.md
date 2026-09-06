@@ -246,6 +246,7 @@ This repository is to track leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/sooryanshh/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/sooryanshh/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/sooryanshh/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sooryanshh/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -281,6 +282,7 @@ This repository is to track leetcode
 | [0199-binary-tree-right-side-view](https://github.com/sooryanshh/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sooryanshh/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/sooryanshh/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/sooryanshh/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sooryanshh/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sooryanshh/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -379,6 +381,7 @@ This repository is to track leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/sooryanshh/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/sooryanshh/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sooryanshh/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/sooryanshh/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -419,6 +422,7 @@ This repository is to track leetcode
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/sooryanshh/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/sooryanshh/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/sooryanshh/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/sooryanshh/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
