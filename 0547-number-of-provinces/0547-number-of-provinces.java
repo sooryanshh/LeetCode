@@ -6,24 +6,16 @@ class Solution {
         for(int i =0;i<n;i++){
             if(!visited[i]){
                 ans++;
-                bfs(isConnected,i,visited);
+                dfs(isConnected,i,visited);
                   }
         }
         return ans;
     } 
-    private void bfs(int[][] arr,int start,boolean[] visited){
-        Queue<Integer> q = new ArrayDeque<>();
-        q.add(start);
-        visited[start]=true;
-        while(!q.isEmpty()){
-           int node = q.poll();
-           for(int i  = 0;i<arr.length;i++){
-            if(arr[node][i]==1 && !visited[i]){
-                visited[i]=true;
-                q.add(i);
-            }
-           } 
-        }
-    } 
+   private void dfs(int[][] connected,int node,boolean[] visited){
+     visited[node]=true;
+     for(int i =0;i<connected[node].length;i++){
+        if(connected[node][i]==1 &&!visited[i])dfs(connected,i,visited);
+     }
+   }
 
 }
