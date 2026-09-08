@@ -256,6 +256,7 @@ This repository is to track leetcode
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sooryanshh/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/sooryanshh/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/sooryanshh/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0687-longest-univalue-path](https://github.com/sooryanshh/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -289,6 +290,7 @@ This repository is to track leetcode
 | [0513-find-bottom-left-tree-value](https://github.com/sooryanshh/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sooryanshh/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sooryanshh/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0547-number-of-provinces](https://github.com/sooryanshh/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -296,6 +298,7 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/sooryanshh/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/sooryanshh/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -523,4 +526,8 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sooryanshh/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/sooryanshh/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
