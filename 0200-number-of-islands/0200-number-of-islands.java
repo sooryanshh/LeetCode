@@ -1,23 +1,46 @@
 class Solution {
     public int numIslands(char[][] grid) {
-        int count =0;
-        for(int i =0;i<grid.length;i++){
-            for(int j =0;j<grid[0].length;j++){
+        // bfs approach for this problem 
+        int count = 0;
+        for(int i = 0;i<grid.length;i++){
+            for(int j = 0;j<grid[i].length;j++){
                 if(grid[i][j]=='1'){
+                    bfs(grid,i,j);
                     count++;
-                    changeToZero(grid,i,j);
                 }
             }
         }
-        return count;
+       return count; 
     }
-    void changeToZero(char[][] grid,int r , int c ){
-        if(r<0|| c<0|| r>grid.length-1 || c>grid[0].length-1 || grid[r][c]=='0')return;
+    private void bfs(char[][] grid , int r , int c){
+        int[] idx = {r,c};
+        Queue<int[]> q = new ArrayDeque<>();
+        q.add(idx);
         grid[r][c]='0';
-        changeToZero(grid,r+1,c);
-        changeToZero(grid,r-1,c);
-        changeToZero(grid,r,c+1);
-        changeToZero(grid,r,c-1);
-    }
+        while(!q.isEmpty()){
+            int[] front = q.poll();
+            int row = front[0];
+            int col = front[1];
+            //up
+            if(row-1>=0 &&grid[row-1][col]=='1'){
+                q.add(new int[]{row-1,col});
+                grid[row-1][col]='0';
+            }
+            // down
+             if(row+1<grid.length &&grid[row+1][col]=='1'){
+                q.add(new int[]{row+1,col});
+                grid[row+1][col]='0';
+            }
 
+             if(col+1<grid[0].length &&grid[row][col+1]=='1'){
+                q.add(new int[]{row,col+1});
+                grid[row][col+1]='0';
+            }
+             if(col-1>=0 &&grid[row][col-1]=='1'){
+                q.add(new int[]{row,col-1});
+                grid[row][col-1]='0';
+            }
+
+        }
+    }
 }
