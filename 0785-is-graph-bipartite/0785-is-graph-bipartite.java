@@ -4,7 +4,11 @@ class Solution {
        Queue<Integer> q = new ArrayDeque<>();
        int[] colours = new int[n];
        for(int i =0;i<colours.length;i++){
-        if(colours[i]==0)bfs(graph,colours,i);
+        if(colours[i]==0){
+            if(!bfs(graph,colours,i)){
+                return false;
+            }
+        }
        }
        for(int i =0;i<graph.length;i++){
         for(int ele : graph[i]){
@@ -14,7 +18,7 @@ class Solution {
        return true;
     
 }
-    private void bfs(int[][] graph,int[] colours,int start){
+    private boolean bfs(int[][] graph,int[] colours,int start){
         Queue<Integer> q = new ArrayDeque<>();
          q.add(start);
        colours[start]=1; 
@@ -24,12 +28,14 @@ class Solution {
         int colour = -colours[front];
 
         for(int node : graph[front]){
-           if(colours[node]!=0 )continue;
+          
            if(colours[node]==0){
             q.add(node);
             colours[node]=colour;
            }
+           if(colours[node]==colours[front])return false;
         }
        }
+       return true;
     }   
 }
