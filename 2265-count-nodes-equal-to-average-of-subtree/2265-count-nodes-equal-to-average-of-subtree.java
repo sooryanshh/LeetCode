@@ -12,11 +12,8 @@ class Solution {
     private int check(TreeNode root){
         if(root == null)return 0;
         int sum = root.val+check(root.left)+check(root.right);
-        System.out.print(sum +" ");
         int count = count(root);
-        System.out.print(count +" ");
         if(root.val==sum/count)ans++;
-        System.out.println(ans);
         return sum;
     }
 }
