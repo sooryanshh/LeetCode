@@ -268,6 +268,7 @@ This repository is to track leetcode
 | [0841-keys-and-rooms](https://github.com/sooryanshh/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/sooryanshh/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sooryanshh/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +420,7 @@ This repository is to track leetcode
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sooryanshh/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -462,6 +464,7 @@ This repository is to track leetcode
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sooryanshh/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
