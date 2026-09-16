@@ -276,6 +276,7 @@ This repository is to track leetcode
 | [0687-longest-univalue-path](https://github.com/sooryanshh/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sooryanshh/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/sooryanshh/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/sooryanshh/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -315,6 +316,7 @@ This repository is to track leetcode
 | [0547-number-of-provinces](https://github.com/sooryanshh/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sooryanshh/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/sooryanshh/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/sooryanshh/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sooryanshh/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -431,6 +433,7 @@ This repository is to track leetcode
 | [0687-longest-univalue-path](https://github.com/sooryanshh/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sooryanshh/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sooryanshh/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -475,6 +478,7 @@ This repository is to track leetcode
 | [0687-longest-univalue-path](https://github.com/sooryanshh/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sooryanshh/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sooryanshh/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -520,6 +524,7 @@ This repository is to track leetcode
 | [0538-convert-bst-to-greater-tree](https://github.com/sooryanshh/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/sooryanshh/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Cartesian Tree
