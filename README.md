@@ -280,6 +280,7 @@ This repository is to track leetcode
 | [0785-is-graph-bipartite](https://github.com/sooryanshh/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/sooryanshh/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sooryanshh/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sooryanshh/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -320,6 +321,7 @@ This repository is to track leetcode
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sooryanshh/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/sooryanshh/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/sooryanshh/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0993-cousins-in-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sooryanshh/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -437,6 +439,7 @@ This repository is to track leetcode
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sooryanshh/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sooryanshh/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -483,6 +486,7 @@ This repository is to track leetcode
 | [0701-insert-into-a-binary-search-tree](https://github.com/sooryanshh/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sooryanshh/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sooryanshh/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
