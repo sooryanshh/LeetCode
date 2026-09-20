@@ -46,6 +46,7 @@ This repository is to track leetcode
 | [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sooryanshh/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/sooryanshh/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +368,7 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/sooryanshh/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
 | ------- | ------- |
