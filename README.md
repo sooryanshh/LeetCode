@@ -167,10 +167,12 @@ This repository is to track leetcode
 | [0124-binary-tree-maximum-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/sooryanshh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/sooryanshh/LeetCode/tree/main/0494-target-sum/) | Medium |
+| [0509-fibonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sooryanshh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/sooryanshh/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/sooryanshh/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -244,6 +246,7 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sooryanshh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sooryanshh/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -600,4 +603,8 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sooryanshh/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
