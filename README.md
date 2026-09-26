@@ -61,6 +61,7 @@ This repository is to track leetcode
 | [0567-permutation-in-string](https://github.com/sooryanshh/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sooryanshh/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Array
@@ -99,6 +100,7 @@ This repository is to track leetcode
 | [1046-last-stone-weight](https://github.com/sooryanshh/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sooryanshh/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sooryanshh/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1436-destination-city](https://github.com/sooryanshh/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sooryanshh/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
