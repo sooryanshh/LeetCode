@@ -22,6 +22,7 @@ This repository is to track leetcode
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1436-destination-city](https://github.com/sooryanshh/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -60,6 +61,7 @@ This repository is to track leetcode
 | [0567-permutation-in-string](https://github.com/sooryanshh/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@ This repository is to track leetcode
 | [1436-destination-city](https://github.com/sooryanshh/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sooryanshh/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sooryanshh/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -403,12 +406,14 @@ This repository is to track leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/sooryanshh/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sooryanshh/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sooryanshh/LeetCode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/sooryanshh/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Tree
