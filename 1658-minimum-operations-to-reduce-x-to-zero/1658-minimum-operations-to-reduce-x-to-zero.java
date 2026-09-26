@@ -10,7 +10,7 @@ class Solution {
         int ans= -1;
         for(int i=0;i<nums.length;i++){
             sum+=nums[i];            
-            while(l<nums.length &&sum>target){
+            while(l<=i &&sum>target){
                 sum-=nums[l++];
             }
             if(sum==target)ans=Math.max(ans,i-l+1);
