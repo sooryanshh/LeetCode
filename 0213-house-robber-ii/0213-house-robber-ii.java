@@ -12,7 +12,7 @@ class Solution {
         if(n<start)return 0;
         if(dp[n]!=-1)return dp[n];
        dp[n]= Math.max(nums[n] +helper(nums, dp,n-2,start),helper(nums,dp,n-1,start));
-       System.out.println(Arrays.toString(dp));
+      
        return dp[n];
     }
 }
