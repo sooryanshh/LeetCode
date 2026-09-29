@@ -72,6 +72,7 @@ This repository is to track leetcode
 | [0040-combination-sum-ii](https://github.com/sooryanshh/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/sooryanshh/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/sooryanshh/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0064-minimum-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/sooryanshh/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/sooryanshh/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -175,6 +176,7 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/sooryanshh/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/sooryanshh/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/sooryanshh/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -317,6 +319,7 @@ This repository is to track leetcode
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/sooryanshh/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sooryanshh/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
