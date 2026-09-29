@@ -174,6 +174,7 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0062-unique-paths](https://github.com/sooryanshh/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/sooryanshh/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/sooryanshh/LeetCode/tree/main/0198-house-robber/) | Medium |
@@ -185,6 +186,7 @@ This repository is to track leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/sooryanshh/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/sooryanshh/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/sooryanshh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -628,4 +630,8 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sooryanshh/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/sooryanshh/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
