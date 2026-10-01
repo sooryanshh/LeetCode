@@ -1,15 +1,14 @@
 class Solution {
     public int tribonacci(int n) {
+        int[] dp = new int[n+1];
+        Arrays.fill(dp,-1);
+       return tribo(n,dp);
+      
+    }
+    private int tribo(int n,int[] dp){
         if(n==0)return 0;
-       int first =0;
-       int second = 1;
-       int third = 1;
-       for(int i =3;i<=n;i++){
-        int ans = first + second + third;
-        first = second;
-        second = third ;
-        third = ans;
-       }  
-       return third;
+        if(n==1 || n==2)return 1;
+        if(dp[n]!=-1)return dp[n];
+        return dp[n]=tribo(n-1,dp)+tribo(n-2,dp)+tribo(n-3,dp);
     }
 }
