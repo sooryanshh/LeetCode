@@ -109,6 +109,7 @@ This repository is to track leetcode
 | [1046-last-stone-weight](https://github.com/sooryanshh/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sooryanshh/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sooryanshh/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sooryanshh/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1436-destination-city](https://github.com/sooryanshh/LeetCode/tree/main/1436-destination-city/) | Easy |
@@ -192,6 +193,7 @@ This repository is to track leetcode
 | [0746-min-cost-climbing-stairs](https://github.com/sooryanshh/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sooryanshh/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@ This repository is to track leetcode
 | [0931-minimum-falling-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sooryanshh/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sooryanshh/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
