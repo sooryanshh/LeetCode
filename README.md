@@ -48,6 +48,7 @@ This repository is to track leetcode
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sooryanshh/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sooryanshh/LeetCode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1436-destination-city](https://github.com/sooryanshh/LeetCode/tree/main/1436-destination-city/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sooryanshh/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sooryanshh/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
@@ -280,6 +281,7 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sooryanshh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sooryanshh/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sooryanshh/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -415,6 +417,7 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sooryanshh/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/sooryanshh/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
