@@ -8,8 +8,8 @@ class Solution {
             pse[i]=-1;
         }
         helper(heights, nse,pse);
-        System.out.println(Arrays.toString(nse));
-        System.out.println(Arrays.toString(pse));
+        // System.out.println(Arrays.toString(nse));
+        // System.out.println(Arrays.toString(pse));
         int ans = 0;
         for(int i =0;i<n;i++){
             int curr = (nse[i]-pse[i]-1)*heights[i];
