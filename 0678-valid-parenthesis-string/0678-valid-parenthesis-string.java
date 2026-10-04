@@ -1,7 +1,7 @@
 class Solution {
     public boolean checkValidString(String s) {
-        Stack<Integer> st = new Stack<>();
-        Stack<Integer> st2 = new Stack<>();
+        Deque<Integer> st = new ArrayDeque<>();
+        Deque<Integer> st2 = new ArrayDeque<>();
         for(int i =0;i<s.length();i++){
             char ch = s.charAt(i);
             if(ch =='(')st.push(i);
