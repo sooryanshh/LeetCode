@@ -15,8 +15,6 @@ class Solution {
               st2.push(i);
             }
         }
-        System.out.println(st);
-        System.out.println(st2);
         while(!st.isEmpty() && !st2.isEmpty()){
            if(st2.pop()<st.pop() )return false;
            
