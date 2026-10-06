@@ -1,12 +1,14 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Deque<Character> st = new ArrayDeque<>();
-        int ans =0;
-        for(char ch:s.toCharArray()){
-            if(ch=='(')st.push(ch);
-            else if(!st.isEmpty() && ch ==')' && st.peek()=='(')st.pop();
-            else ans++;
+        int co =0;
+        int cc=0;
+        for(int i =0;i<s.length();i++){
+            if(s.charAt(i)=='(')co++;
+            else {
+                if(co!=0)co--;
+                else cc++;
+            }
         }
-        return ans+st.size();
+        return co+cc;
     }
 }
