@@ -129,6 +129,7 @@ This repository is to track leetcode
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sooryanshh/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/sooryanshh/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sooryanshh/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -212,6 +213,7 @@ This repository is to track leetcode
 | [0931-minimum-falling-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sooryanshh/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sooryanshh/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,6 +373,7 @@ This repository is to track leetcode
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sooryanshh/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sooryanshh/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sooryanshh/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -461,6 +464,7 @@ This repository is to track leetcode
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sooryanshh/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sooryanshh/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sooryanshh/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
