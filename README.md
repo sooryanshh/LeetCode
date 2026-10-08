@@ -51,6 +51,7 @@ This repository is to track leetcode
 | [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sooryanshh/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sooryanshh/LeetCode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1436-destination-city](https://github.com/sooryanshh/LeetCode/tree/main/1436-destination-city/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sooryanshh/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -295,6 +296,7 @@ This repository is to track leetcode
 | [0856-score-of-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sooryanshh/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sooryanshh/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sooryanshh/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
@@ -468,6 +470,7 @@ This repository is to track leetcode
 | [0678-valid-parenthesis-string](https://github.com/sooryanshh/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sooryanshh/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sooryanshh/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sooryanshh/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
