@@ -133,6 +133,7 @@ This repository is to track leetcode
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sooryanshh/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/sooryanshh/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2233-maximum-product-after-k-increments](https://github.com/sooryanshh/LeetCode/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sooryanshh/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -243,6 +244,7 @@ This repository is to track leetcode
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sooryanshh/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sooryanshh/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sooryanshh/LeetCode/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+| [2233-maximum-product-after-k-increments](https://github.com/sooryanshh/LeetCode/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sooryanshh/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sorting
@@ -442,6 +444,7 @@ This repository is to track leetcode
 | [0973-k-closest-points-to-origin](https://github.com/sooryanshh/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/sooryanshh/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sooryanshh/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [2233-maximum-product-after-k-increments](https://github.com/sooryanshh/LeetCode/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
