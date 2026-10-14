@@ -141,6 +141,7 @@ This repository is to track leetcode
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sooryanshh/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sooryanshh/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sooryanshh/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/sooryanshh/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sooryanshh/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -248,6 +249,7 @@ This repository is to track leetcode
 | [2233-maximum-product-after-k-increments](https://github.com/sooryanshh/LeetCode/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sooryanshh/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sooryanshh/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +267,7 @@ This repository is to track leetcode
 | [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sooryanshh/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
