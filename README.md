@@ -26,6 +26,7 @@ This repository is to track leetcode
 | [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sooryanshh/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sooryanshh/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -140,6 +141,7 @@ This repository is to track leetcode
 | [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sooryanshh/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sooryanshh/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sooryanshh/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sooryanshh/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -735,4 +737,12 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sooryanshh/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sooryanshh/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sooryanshh/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
