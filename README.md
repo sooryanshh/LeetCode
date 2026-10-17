@@ -143,6 +143,7 @@ This repository is to track leetcode
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sooryanshh/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2284-sender-with-largest-word-count](https://github.com/sooryanshh/LeetCode/tree/main/2284-sender-with-largest-word-count/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2679-sum-in-a-matrix](https://github.com/sooryanshh/LeetCode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sooryanshh/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sooryanshh/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -276,6 +277,7 @@ This repository is to track leetcode
 | [0973-k-closest-points-to-origin](https://github.com/sooryanshh/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/sooryanshh/LeetCode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sooryanshh/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -399,6 +401,7 @@ This repository is to track leetcode
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sooryanshh/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sooryanshh/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sooryanshh/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2679-sum-in-a-matrix](https://github.com/sooryanshh/LeetCode/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,6 +463,7 @@ This repository is to track leetcode
 | [1046-last-stone-weight](https://github.com/sooryanshh/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sooryanshh/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/sooryanshh/LeetCode/tree/main/2233-maximum-product-after-k-increments/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/sooryanshh/LeetCode/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -474,6 +478,7 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/sooryanshh/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sooryanshh/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/sooryanshh/LeetCode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/sooryanshh/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
