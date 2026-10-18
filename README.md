@@ -8,6 +8,7 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sooryanshh/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/sooryanshh/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sooryanshh/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sooryanshh/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sooryanshh/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sooryanshh/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -41,6 +42,7 @@ This repository is to track leetcode
 | [0022-generate-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/sooryanshh/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sooryanshh/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sooryanshh/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -67,6 +69,7 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sooryanshh/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sooryanshh/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/sooryanshh/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/sooryanshh/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sooryanshh/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
