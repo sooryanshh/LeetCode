@@ -76,6 +76,7 @@ This repository is to track leetcode
 | [0567-permutation-in-string](https://github.com/sooryanshh/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/sooryanshh/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sooryanshh/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sooryanshh/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -122,6 +123,7 @@ This repository is to track leetcode
 | [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sooryanshh/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/sooryanshh/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sooryanshh/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -229,6 +231,7 @@ This repository is to track leetcode
 | [0509-fibonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/sooryanshh/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sooryanshh/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sooryanshh/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sooryanshh/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -514,6 +517,7 @@ This repository is to track leetcode
 | [0240-search-a-2d-matrix-ii](https://github.com/sooryanshh/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sooryanshh/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sooryanshh/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Prefix Sum
@@ -760,4 +764,12 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sooryanshh/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sooryanshh/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/sooryanshh/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 <!---LeetCode Topics End-->
