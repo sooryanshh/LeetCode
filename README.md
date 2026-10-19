@@ -142,6 +142,7 @@ This repository is to track leetcode
 | [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sooryanshh/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sooryanshh/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/sooryanshh/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sooryanshh/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2233-maximum-product-after-k-increments](https://github.com/sooryanshh/LeetCode/tree/main/2233-maximum-product-after-k-increments/) | Medium |
@@ -282,6 +283,7 @@ This repository is to track leetcode
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sooryanshh/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sooryanshh/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/sooryanshh/LeetCode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sooryanshh/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -519,6 +521,7 @@ This repository is to track leetcode
 | [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sooryanshh/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sooryanshh/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
