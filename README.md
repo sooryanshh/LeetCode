@@ -82,6 +82,7 @@ This repository is to track leetcode
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/sooryanshh/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/sooryanshh/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sooryanshh/LeetCode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ This repository is to track leetcode
 | [2679-sum-in-a-matrix](https://github.com/sooryanshh/LeetCode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sooryanshh/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sooryanshh/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sooryanshh/LeetCode/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sooryanshh/LeetCode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sooryanshh/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sooryanshh/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
