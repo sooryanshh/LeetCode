@@ -139,6 +139,7 @@ This repository is to track leetcode
 | [1046-last-stone-weight](https://github.com/sooryanshh/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/sooryanshh/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sooryanshh/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sooryanshh/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/sooryanshh/LeetCode/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
@@ -398,6 +399,7 @@ This repository is to track leetcode
 | [0938-range-sum-of-bst](https://github.com/sooryanshh/LeetCode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/sooryanshh/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sooryanshh/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sooryanshh/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sooryanshh/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -416,6 +418,7 @@ This repository is to track leetcode
 | [0931-minimum-falling-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1219-path-with-maximum-gold](https://github.com/sooryanshh/LeetCode/tree/main/1219-path-with-maximum-gold/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/sooryanshh/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sooryanshh/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sooryanshh/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sooryanshh/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -452,6 +455,7 @@ This repository is to track leetcode
 | [0841-keys-and-rooms](https://github.com/sooryanshh/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/sooryanshh/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sooryanshh/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/sooryanshh/LeetCode/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sooryanshh/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -462,6 +466,7 @@ This repository is to track leetcode
 | [0547-number-of-provinces](https://github.com/sooryanshh/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/sooryanshh/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/sooryanshh/LeetCode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/sooryanshh/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sooryanshh/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sooryanshh/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Queue
