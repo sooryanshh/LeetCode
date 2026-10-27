@@ -43,6 +43,7 @@ This repository is to track leetcode
 | [0022-generate-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/sooryanshh/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/sooryanshh/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sooryanshh/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/sooryanshh/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0257-binary-tree-paths](https://github.com/sooryanshh/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
@@ -230,6 +231,7 @@ This repository is to track leetcode
 | [0063-unique-paths-ii](https://github.com/sooryanshh/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/sooryanshh/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/sooryanshh/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0120-triangle](https://github.com/sooryanshh/LeetCode/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/sooryanshh/LeetCode/tree/main/0198-house-robber/) | Medium |
