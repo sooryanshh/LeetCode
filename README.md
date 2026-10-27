@@ -49,6 +49,7 @@ This repository is to track leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/sooryanshh/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sooryanshh/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sooryanshh/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/sooryanshh/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sooryanshh/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/sooryanshh/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/sooryanshh/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -239,6 +240,7 @@ This repository is to track leetcode
 | [0486-predict-the-winner](https://github.com/sooryanshh/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/sooryanshh/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/sooryanshh/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/sooryanshh/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/sooryanshh/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/sooryanshh/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sooryanshh/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
