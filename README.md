@@ -23,6 +23,7 @@ This repository is to track leetcode
 | [0567-permutation-in-string](https://github.com/sooryanshh/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/sooryanshh/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/sooryanshh/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/sooryanshh/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sooryanshh/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1436-destination-city](https://github.com/sooryanshh/LeetCode/tree/main/1436-destination-city/) | Easy |
@@ -84,6 +85,7 @@ This repository is to track leetcode
 | [0594-longest-harmonious-subsequence](https://github.com/sooryanshh/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/sooryanshh/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sooryanshh/LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/sooryanshh/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sooryanshh/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sooryanshh/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -137,6 +139,7 @@ This repository is to track leetcode
 | [0733-flood-fill](https://github.com/sooryanshh/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/sooryanshh/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sooryanshh/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/sooryanshh/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/sooryanshh/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sooryanshh/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
@@ -558,6 +561,7 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sooryanshh/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sooryanshh/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/sooryanshh/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sooryanshh/LeetCode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sooryanshh/LeetCode/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
