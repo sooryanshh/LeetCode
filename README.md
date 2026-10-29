@@ -180,6 +180,7 @@ This repository is to track leetcode
 | [3731-find-missing-elements](https://github.com/sooryanshh/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/sooryanshh/LeetCode/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sooryanshh/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sooryanshh/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sooryanshh/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -203,6 +204,7 @@ This repository is to track leetcode
 | [0078-subsets](https://github.com/sooryanshh/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/sooryanshh/LeetCode/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/sooryanshh/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sooryanshh/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +266,7 @@ This repository is to track leetcode
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sooryanshh/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sooryanshh/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sooryanshh/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sooryanshh/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +445,7 @@ This repository is to track leetcode
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sooryanshh/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2679-sum-in-a-matrix](https://github.com/sooryanshh/LeetCode/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sooryanshh/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/sooryanshh/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
