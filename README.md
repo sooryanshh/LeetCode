@@ -160,6 +160,7 @@ This repository is to track leetcode
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sooryanshh/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sooryanshh/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sooryanshh/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sooryanshh/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sooryanshh/LeetCode/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sooryanshh/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/sooryanshh/LeetCode/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -265,6 +266,7 @@ This repository is to track leetcode
 | [1143-longest-common-subsequence](https://github.com/sooryanshh/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sooryanshh/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sooryanshh/LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sooryanshh/LeetCode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sooryanshh/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sooryanshh/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Math
