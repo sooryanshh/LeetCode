@@ -11,6 +11,20 @@ class Solution {
                 else dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);
             }
         }
+        // printing the longest common subsequence 
+       StringBuilder sb = new StringBuilder();
+       int i = m;
+       int j  =n;
+       while(i>0 && j>0){
+        if(a.charAt(i-1) == b.charAt(j-1)){
+            sb.append(a.charAt(i-1));
+            i--;
+            j--;
+        }
+        else if(dp[i][j]==dp[i-1][j])i--;
+        else j--;
+       }
+        System.out.println(sb.reverse());
         return dp[m][n];
     }
 }
