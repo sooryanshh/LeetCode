@@ -43,6 +43,7 @@ This repository is to track leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sooryanshh/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/sooryanshh/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -225,6 +226,7 @@ This repository is to track leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sooryanshh/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0061-rotate-list](https://github.com/sooryanshh/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sooryanshh/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sooryanshh/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -239,6 +241,7 @@ This repository is to track leetcode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sooryanshh/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/sooryanshh/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0062-unique-paths](https://github.com/sooryanshh/LeetCode/tree/main/0062-unique-paths/) | Medium |
@@ -832,4 +835,8 @@ This repository is to track leetcode
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/sooryanshh/LeetCode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/sooryanshh/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sooryanshh/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
